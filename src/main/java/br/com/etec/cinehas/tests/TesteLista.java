@@ -10,8 +10,8 @@ public class TesteLista {
         // Tipo Nome
         List<String> nomes = new ArrayList<>();
         List<Sala> salas = new ArrayList<>();
-        nomes.add("Eliane");
-        nomes.add("Fatima");
+        nomes.add("Paulo");
+        nomes.add("Ana");
         System.out.println(nomes);
         Sala sala = new Sala();
         sala.setId(1);
